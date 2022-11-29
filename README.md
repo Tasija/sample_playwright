@@ -7,4 +7,5 @@
 6. html report will be generated in the root of dir 
 
 Example of the report
-![](Screenshot 2022-11-30 at 00.48.37.png)
+
+<img width="1670" alt="Screenshot 2022-11-30 at 00 48 37" src="https://user-images.githubusercontent.com/13049374/204674036-4461fa60-311e-4184-bdd8-ead00dd96f30.png">
